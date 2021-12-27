@@ -20,10 +20,9 @@
 &nbsp;
 <p align="center">
   <a href="https://github.com/elifsaresari">
-    <img height="140em" src="https://github-readme-stats.vercel.app/api?username=elifsaresari&show_icons=true&theme=radical"/>
-    <img height="140em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=elifsaresari&layout=compact&langs_count=8&theme=radical"/>
-    <br>
-    <br>   
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=elifsaresari&show_icons=true&theme=radical"/>
+    <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=elifsaresari&layout=compact&langs_count=8&theme=radical"/>
+    <br>  
   </a>
 </p>
 &nbsp;
